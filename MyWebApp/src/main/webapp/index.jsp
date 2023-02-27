@@ -8,6 +8,6 @@
 <h2> 
 	<h2> This is Java project with use of maven plugin !!!!!!!!</h2>
 	<h3> Deployed By- Mphasis ltd. </h3>
-	<h4> By me <h4>
+	<h4> By Me <h4>
 </body>
 </html>
